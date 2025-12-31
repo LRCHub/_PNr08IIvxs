@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Cheerleader",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T13:09:42.165626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "artist": "Omi",
+      "has_synced": true,
+      "path": "select/01_Cheerleader_(Felix_Jaehn_Remix)_Omi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheerleader",
+      "artist": "Luna Shadows",
+      "has_synced": true,
+      "path": "select/02_Cheerleader_Luna_Shadows.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheerleader Effect",
+      "artist": "Carpenter Brut feat. Kristoffer Rygg",
+      "has_synced": true,
+      "path": "select/03_Cheerleader_Effect_Carpenter_Brut_feat._Kristoffer_Rygg.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheerleader Effect",
+      "artist": "Carpenter Brut Kristoffer Rygg",
+      "has_synced": true,
+      "path": "select/04_Cheerleader_Effect_Carpenter_Brut_Kristoffer_Rygg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheerleader memorial",
+      "artist": "Dijf Sanders",
+      "has_synced": false,
+      "path": "select/05_Cheerleader_memorial_Dijf_Sanders.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cheerleader",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/06_Cheerleader_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheerleader (Neon Indian 'Sega Genesis P-Orridge' Remix)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/07_Cheerleader_(Neon_Indian_'Sega_Genesis_P-Orridge'_Remix)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheerleader (Neon Indian 'Studio 6669' Remix)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/08_Cheerleader_(Neon_Indian_'Studio_6669'_Remix)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What? - The Naughty Cheerleader Mix",
+      "artist": "Rob Zombie",
+      "has_synced": false,
+      "path": "select/09_What__-_The_Naughty_Cheerleader_Mix_Rob_Zombie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pregnant Cheerleader Theme Song",
+      "artist": "Kid606",
+      "has_synced": false,
+      "path": "select/10_Pregnant_Cheerleader_Theme_Song_Kid606.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cheerleader",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/11_Cheerleader_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cheerleader",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/12_Cheerleader_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cheerleader (Acoustic Version)",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/13_Cheerleader_(Acoustic_Version)_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Head Cheerleader",
+      "artist": "Pom Pom Squad",
+      "has_synced": true,
+      "path": "select/14_Head_Cheerleader_Pom_Pom_Squad.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cheerleader (Felix Jaehn Remix Radio Edit) (Mixed)",
+      "artist": "Omi",
+      "has_synced": false,
+      "path": "select/15_Cheerleader_(Felix_Jaehn_Remix_Radio_Edit)_(Mixed)_Omi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Who Took The Pill (Remuched by Death Of A Cheerleader)",
+      "artist": "Bonaparte",
+      "has_synced": false,
+      "path": "select/16_Who_Took_The_Pill_(Remuched_by_Death_Of_A_Cheerleader)_Bonaparte.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Who Took the Pill - Remuched by Death of a Cheerleader",
+      "artist": "Bonaparte/Death Of A Cheerleader",
+      "has_synced": false,
+      "path": "select/17_Who_Took_the_Pill_-_Remuched_by_Death_of_a_Cheerleader_Bonaparte_Death_Of_A_Cheerleader.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Save The Cheerleader - Bare Remix",
+      "artist": "I See Stars",
+      "has_synced": true,
+      "path": "select/18_Save_The_Cheerleader_-_Bare_Remix_I_See_Stars.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cheerleader",
+      "artist": "Nazareth",
+      "has_synced": true,
+      "path": "select/19_Cheerleader_Nazareth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cheerleader",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Cheerleader_Porter_Robinson.txt"
+    }
+  ]
+}
